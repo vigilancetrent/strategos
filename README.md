@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="strategos — agentic trading orchestrator" width="100%"/>
+</p>
+
 # strategos
 
 **The boss layer for the quantflow ecosystem.**
